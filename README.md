@@ -70,5 +70,5 @@ PocketPath is a full-featured expense tracking web application built with the ME
 ### 🗂️ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/pocketpath.git
+git clone https://github.com/AartiMalpeddi/pocketpath.git
 cd pocketpath
